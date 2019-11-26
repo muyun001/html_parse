@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fafefcf2-42e4-4343-8d34-bb4beaa43eeb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1Tp519sbgEpiEOM6E5y6jW5FAWd" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/services/sogou_service/test_html" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fxt\html_parse_api\services\sogou_service\test_html" />
+      <recent name="D:\fxt\html_parse_api\services\sogou_service" />
+      <recent name="D:\fxt\html_parse_api\services\so_360_service\test_html" />
+      <recent name="D:\fxt\html_parse_api\services\so_360_service" />
+      <recent name="D:\fxt\html_parse_api\services\baidu_pc_service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fxt\html_parse_api\test" />
+      <recent name="D:\fxt\html_parse_api\actions" />
+      <recent name="D:\fxt\html_parse_api\structs" />
+      <recent name="D:\fxt\html_parse_api\structs\baidu_pc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build test.go">
+    <configuration name="go build html_parse_api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="html_parse_api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/api.go" />
+      <package value="html_parse_api" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="html_parse_api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test/test.go" />
+      <package value="html_parse_api" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestParseBaiduPcSearchInfo in html_parse_api/services/baidu_pc_service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="html_parse_api" />
+      <working_directory value="$PROJECT_DIR$/services/baidu_pc_service" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="html_parse_api/services/baidu_pc_service" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestParseBaiduPcSearchInfo$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestParseSoSearchInfoFromHtml in html_parse_api/services/so_service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="html_parse_api" />
+      <working_directory value="$PROJECT_DIR$/services/so_service" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="html_parse_api/services/so_service" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestParseSoSearchInfoFromHtml$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestParseSogouSearchInfoFromHtml in html_parse_api/services/sogou_service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="html_parse_api" />
+      <working_directory value="$PROJECT_DIR$/services/sogou_service" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="html_parse_api/services/sogou_service" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestParseSogouSearchInfoFromHtml$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build html_parse_api" />
+        <item itemvalue="Go Test.TestParseSogouSearchInfoFromHtml in html_parse_api/services/sogou_service" />
+        <item itemvalue="Go Test.TestParseSoSearchInfoFromHtml in html_parse_api/services/so_service" />
+        <item itemvalue="Go Test.TestParseBaiduPcSearchInfo in html_parse_api/services/baidu_pc_service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/sogou_service/sogouSearchInfoParser_test.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
